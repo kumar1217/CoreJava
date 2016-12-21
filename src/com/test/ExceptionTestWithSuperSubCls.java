@@ -18,7 +18,7 @@ class SupA{
 	}
 }
 class SubB extends SupA{
-	public void sleep() throws {
+	public void sleep()  {
 		System.out.println("am Subb class sleep");
 	}
 }
